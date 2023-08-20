@@ -1,7 +1,7 @@
 # 👋 Hi there
 
 Eu sou Rafael, apaixonado por tecnologia e sua evolução.
-Atualmente sou estudante do 6° Semestre do curso de Ciência da Computação, além de diariamente está me aprofundando na língua inglesa e na linguagem Python.
+Atualmente sou estudante do 6° Semestre do curso de Ciência da Computação, além de diariamente eu está me aprofundando no aprendizado da língua inglesa e na linguagem Python.
 
 
 # 🚀 Expertise
