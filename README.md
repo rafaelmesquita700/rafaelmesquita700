@@ -1,11 +1,13 @@
 # 👋 Hi there
 
-Eu sou Rafael, apaixonado por tecnologia e sua evolução. Atualmente sou estudante no 6° Semestre do curso de Ciência da Computação, também estudando inglês e me aprofundando na linguagem Python.
+Eu sou Rafael, apaixonado por tecnologia e sua evolução.
+Atualmente sou estudante do 6° Semestre do curso de Ciência da Computação, além de diariamente está me aprofundando na língua inglesa e na linguagem Python.
 
 
 # 🚀 Expertise
 
-Meu foco principal é o desenvolvimento full stack, onde pretendo me especializar na criação de sistemas web.
+Meu foco principal é o desenvolvimento back-end, onde pretendo me especializar ainda mais nessa área.
+Tenho um bom conhecimento em Java, até os conceitos de POO no momento.
 
 # 💻 Tech Stack
 
