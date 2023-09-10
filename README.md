@@ -6,8 +6,7 @@ Atualmente sou estudante do 6° Semestre do curso de Ciência da Computação, a
 
 # 🚀 Expertise
 
-Meu foco principal é o desenvolvimento back-end, onde pretendo me especializar ainda mais nessa área.
-Tenho um bom conhecimento em Java, até os conceitos de POO no momento.
+Meu foco principal é o desenvolvimento full stack, onde pretendo me especializar ainda mais nessa área.
 
 # 💻 Tech Stack
 
