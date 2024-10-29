@@ -1,7 +1,7 @@
 # 👋 Hi there
 
 Eu sou Rafael, apaixonado por tecnologia e sua evolução.
-Atualmente sou estudante do 7° Semestre de Ciência da Computação pelo IFCE, além de está diariamente me aprofundando no aprendizado da língua inglesa.
+Atualmente sou estudante do 8° Semestre de Ciência da Computação pelo IFCE, além de está diariamente me aprofundando no aprendizado da língua inglesa.
 
 
 # 🚀 Expertise
